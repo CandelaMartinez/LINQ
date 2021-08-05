@@ -1,0 +1,15 @@
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\bin\Debug\CRUD_LINQ.exe.config
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\bin\Debug\CRUD_LINQ.exe
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\bin\Debug\CRUD_LINQ.pdb
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.csproj.AssemblyReference.cache
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\MainWindow.g.cs
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\App.g.cs
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ_MarkupCompile.cache
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ_MarkupCompile.lref
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\MainWindow.baml
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.g.resources
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.Properties.Resources.resources
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.csproj.GenerateResource.cache
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.exe
+D:\lenguajes\C#\LINQ\CRUD_LINQ\CRUD_LINQ\obj\Debug\CRUD_LINQ.pdb

@@ -1,0 +1,13 @@
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\bin\Debug\netcoreapp3.1\Linq_Objetos.exe
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\bin\Debug\netcoreapp3.1\Linq_Objetos.deps.json
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\bin\Debug\netcoreapp3.1\Linq_Objetos.runtimeconfig.json
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\bin\Debug\netcoreapp3.1\Linq_Objetos.runtimeconfig.dev.json
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\bin\Debug\netcoreapp3.1\Linq_Objetos.dll
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\bin\Debug\netcoreapp3.1\Linq_Objetos.pdb
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\obj\Debug\netcoreapp3.1\Linq_Objetos.csproj.AssemblyReference.cache
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\obj\Debug\netcoreapp3.1\Linq_Objetos.AssemblyInfoInputs.cache
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\obj\Debug\netcoreapp3.1\Linq_Objetos.AssemblyInfo.cs
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\obj\Debug\netcoreapp3.1\Linq_Objetos.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\obj\Debug\netcoreapp3.1\Linq_Objetos.dll
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\obj\Debug\netcoreapp3.1\Linq_Objetos.pdb
+D:\lenguajes\C#\LINQ\Linq_Objetos\Linq_Objetos\obj\Debug\netcoreapp3.1\Linq_Objetos.genruntimeconfig.cache

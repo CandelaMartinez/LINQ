@@ -1,0 +1,13 @@
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\bin\Debug\netcoreapp3.1\TrabajoConLINQ.exe
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\bin\Debug\netcoreapp3.1\TrabajoConLINQ.deps.json
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\bin\Debug\netcoreapp3.1\TrabajoConLINQ.runtimeconfig.json
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\bin\Debug\netcoreapp3.1\TrabajoConLINQ.runtimeconfig.dev.json
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\bin\Debug\netcoreapp3.1\TrabajoConLINQ.dll
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\bin\Debug\netcoreapp3.1\TrabajoConLINQ.pdb
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\obj\Debug\netcoreapp3.1\TrabajoConLINQ.csproj.AssemblyReference.cache
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\obj\Debug\netcoreapp3.1\TrabajoConLINQ.AssemblyInfoInputs.cache
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\obj\Debug\netcoreapp3.1\TrabajoConLINQ.AssemblyInfo.cs
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\obj\Debug\netcoreapp3.1\TrabajoConLINQ.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\obj\Debug\netcoreapp3.1\TrabajoConLINQ.dll
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\obj\Debug\netcoreapp3.1\TrabajoConLINQ.pdb
+D:\lenguajes\C#\TrabajoConLINQ\TrabajoConLINQ\obj\Debug\netcoreapp3.1\TrabajoConLINQ.genruntimeconfig.cache
